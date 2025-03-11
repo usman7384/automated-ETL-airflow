@@ -1,4 +1,4 @@
-# **ETL Pipeline with Apache Airflow, Docker & DVC **  
+# **ETL Pipeline with Apache Airflow, Docker & DVC**  
 
 🚀 A **scalable, automated ETL pipeline** using **Apache Airflow, Docker, and DVC** for data versioning and orchestration. This project extracts **news articles from BBC** (`https://www.bbc.com`), processes the data, and stores it in a **data warehouse**—ensuring **reproducibility, scalability, and monitoring**.  
 
